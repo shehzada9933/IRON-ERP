@@ -1,0 +1,41 @@
+﻿
+> nauman-steel@0.1.0 dev
+> vite
+
+npm : [33mThe CJS build of 
+Vite's Node API is 
+deprecated. See https://vite.
+dev/guide/troubleshooting.htm
+l#vite-cjs-node-api-deprecate
+d for more details.[39m
+At line:1 char:86
++ ... on SilentlyContinue; 
+Start-Sleep -Seconds 2; npm 
+run dev 2>&1 | Out-F ...
++                            
+                      
+~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: ([33mTh  
+  e CJS bu...e details.[3   
+ 9m:String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+[31merror when starting dev 
+server:
+Error: Port 4028 is already 
+in use
+    at Server.onError (file:/
+//C:/Users/panda/Desktop/proj
+ject/nauman-steel/node_module
+s/vite/dist/node/chunks/dep-B
+K3b2jBa.js:45596:18)
+    at Server.emit 
+(node:events:518:28)
+    at emitErrorNT 
+(node:net:1899:8)
+    at process.processTicksAn
+dRejections (node:internal/pr
+ocess/task_queues:82:21)[39m
