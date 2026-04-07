@@ -71,4 +71,4 @@ Build: npm run build
 Note on Deployment: This project is optimized for Linux-based environments (Netlify/Vercel). I specifically handled the case-sensitive module resolution issues to ensure the build pipeline is rock solid.
 
 🌐 Visit the Live Site
-Built with passion for Ferrum Logic. © 2026 Md Irshad Ansari.
+Built with passion for Ferrum Logic. 
