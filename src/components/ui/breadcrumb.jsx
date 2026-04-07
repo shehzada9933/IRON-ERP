@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import Icon from '../Appicon';
+import Icon from '../AppIcon';
 
 const Breadcrumb = ({ customItems = null }) => {
   const location = useLocation();

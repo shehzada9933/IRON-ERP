@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Header from '../../components/ui/Header';
-import Breadcrumb from '../../components/ui/Breadcrumb';
+import Breadcrumb from '../../components/ui/breadcrumb';
 import QuoteRequestCTA from '../../components/ui/QuoteRequestCTA';
 import FilterSidebar from './components/FilterSidebar';
 import ProductToolbar from './components/ProductToolbar';

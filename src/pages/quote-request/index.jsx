@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import Header from '../../components/ui/Header';
-import Breadcrumb from '../../components/ui/Breadcrumb';
+import Breadcrumb from '../../components/ui/breadcrumb';
 import QuoteRequestCTA from '../../components/ui/QuoteRequestCTA';
 import ProgressIndicator from './components/ProgressIndicator';
 import ProductSelectionStep from './components/ProductSelectionStep';

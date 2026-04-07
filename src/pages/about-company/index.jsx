@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../../components/ui/Header';
-import Breadcrumb from '../../components/ui/Breadcrumb';
+import Breadcrumb from '../../components/ui/breadcrumb';
 import QuoteRequestCTA from '../../components/ui/QuoteRequestCTA';
 import CompanyHero from './components/CompanyHero';
 import CompanyTimeline from './components/CompanyTimeline';

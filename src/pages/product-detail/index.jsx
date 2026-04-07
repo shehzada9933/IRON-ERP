@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Header from '../../components/ui/Header';
-import Breadcrumb from '../../components/ui/Breadcrumb';
+import Breadcrumb from '../../components/ui/breadcrumb';
 import QuoteRequestCTA from '../../components/ui/QuoteRequestCTA';
 import ProductImageGallery from './components/ProductImageGallery';
 import Product3DViewer from './components/Product3DViewer';

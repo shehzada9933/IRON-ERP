@@ -4,7 +4,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import path from "path";
 
 export default defineConfig(({ command }) => ({
-  base: command === "build" ? "/IRON-ERP-DASHBOARD/" : "/",
+  base: "/",
   build: {
     outDir: "build",
     chunkSizeWarningLimit: 2000,
